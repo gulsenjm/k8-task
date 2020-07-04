@@ -1,4 +1,4 @@
-# k8-task
+# Wordpress with Persistent volume on K8
 ## Deployin Wordpress with Persistent Volumes on K8
 
 ## Step 1:
